@@ -1,0 +1,6 @@
+c:\users\james\documents\visual studio 2017\Projects\checkForDrops\checkForDrops\bin\Debug\checkForDrops.exe.config
+c:\users\james\documents\visual studio 2017\Projects\checkForDrops\checkForDrops\bin\Debug\checkForDrops.exe
+c:\users\james\documents\visual studio 2017\Projects\checkForDrops\checkForDrops\bin\Debug\checkForDrops.pdb
+c:\users\james\documents\visual studio 2017\Projects\checkForDrops\checkForDrops\obj\Debug\checkForDrops.csprojResolveAssemblyReference.cache
+c:\users\james\documents\visual studio 2017\Projects\checkForDrops\checkForDrops\obj\Debug\checkForDrops.exe
+c:\users\james\documents\visual studio 2017\Projects\checkForDrops\checkForDrops\obj\Debug\checkForDrops.pdb
